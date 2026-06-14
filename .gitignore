@@ -1,0 +1,19 @@
+# Operating-system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary / backup files
+*.tmp
+*.bak
+*~
+
+# IDE / editor local config
+.vscode/
+.idea/
